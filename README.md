@@ -8,4 +8,4 @@ The Python notebook contains code which helps to answer these 3 questions:
 - Analyse Seasonal and Monthly Patterns for Subscription Predictions
 - Profile Financial and Demographic Traits for Housing Loan Potential
 
-The prediction files(csv) for all the 3 problem statements has also been added.
+The prediction files(csv) for all the 3 problem statements are also there.
